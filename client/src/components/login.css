@@ -1,0 +1,22 @@
+h2{
+    text-align: center;
+}
+form{
+    text-align: center;   
+    
+}
+
+form>*{
+    margin-bottom: 2%;
+}
+button{
+    align-items: center;
+    background-color: rgb(240, 106, 70);
+    height: 30px;
+    width: 60px;
+    border-radius: 5px;
+}
+.ll{
+    display:inline;
+}
+
